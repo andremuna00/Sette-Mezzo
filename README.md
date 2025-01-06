@@ -69,6 +69,6 @@ This was a personal educational project, but feel free to fork it and make your 
 ## 📜 License
 This project is open source and available under the MIT License.
 ## ✨ Acknowledgments
-High school CS teacher for the challenging assignment
-Fellow students who tested the game
-The Italian card game tradition that inspired this project
+- High school CS teacher for the challenging assignment
+- Fellow students who tested the game
+- The Italian card game tradition that inspired this project
